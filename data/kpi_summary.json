@@ -1,0 +1,47 @@
+{
+    "total_orders": 7991,
+    "total_units_sold": 36162,
+    "gross_revenue": 82692726.6,
+    "discount_amount": 9656142.38,
+    "net_revenue": 73036584.22,
+    "total_cost": 51818068.88,
+    "gross_profit": 21218515.34,
+    "operating_margin_pct": 29.05,
+    "avg_fulfillment_days": 20.67,
+    "slowest_warehouse": {
+        "code": "WARE-NMK1003",
+        "avg_fulfillment_days": 20.96
+    },
+    "warehouse_metrics": {
+        "WARE-MKL1006": {
+            "avg_fulfillment_days": 20.3,
+            "order_count": 857
+        },
+        "WARE-NBV1002": {
+            "avg_fulfillment_days": 20.65,
+            "order_count": 691
+        },
+        "WARE-NMK1003": {
+            "avg_fulfillment_days": 20.96,
+            "order_count": 2505
+        },
+        "WARE-PUJ1005": {
+            "avg_fulfillment_days": 20.56,
+            "order_count": 1451
+        },
+        "WARE-UHY1004": {
+            "avg_fulfillment_days": 20.76,
+            "order_count": 1265
+        },
+        "WARE-XYS1001": {
+            "avg_fulfillment_days": 20.4,
+            "order_count": 1222
+        }
+    },
+    "date_range": {
+        "min_date": "2018-05-31",
+        "max_date": "2020-12-30",
+        "total_calendar_days": 945
+    },
+    "unique_skus_count": 47
+}
